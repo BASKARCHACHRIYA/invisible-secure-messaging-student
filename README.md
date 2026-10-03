@@ -13,3 +13,4 @@ Advanced Anti-Leak Security:Unlocks the customized 10-second Photo Alert self-de
 Blockchain Ledger Sync:Grants premium limits to securely synchronize private transaction logs on the decentralized network.
 Sandbox Testing Environment:Fully configured with sandbox entitlement tracking logic
 (CustomerInfo) as a local source of truth for mock student tier testing without requiring live store purchase credentials.
+link: https://flutter-chat-login--baskarchachriya.replit.app
